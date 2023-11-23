@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BeanSceneAngular.Server.props" />
+</Project>
